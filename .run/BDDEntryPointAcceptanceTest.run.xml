@@ -16,7 +16,6 @@
     <method v="2">
       <option name="Make" enabled="true" />
       <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="test-compile" />
-      <option name="BSP.BeforeRunTask" enabled="true" />
     </method>
   </configuration>
 </component>
